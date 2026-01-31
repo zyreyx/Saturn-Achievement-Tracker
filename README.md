@@ -1,4 +1,4 @@
-##Hello! Welcome to Saturn Steam Achievement Tracker, I dont have much to add to this readme but heres a few cool things
+## Hello! Welcome to Saturn Steam Achievement Tracker, I dont have much to add to this readme but heres a few cool things
 
 for fun, heres the first screenshot I took of this project 
 
@@ -12,9 +12,9 @@ at one point, I was first on the hakatime leaderboards for this project, with 7 
 
 anyway, thats all i have to say, i hope you like it!
 
-#Features:
+# Features:
 
-###Pop Ups
+### Pop Ups
 
   There are 3 popups you may face:
   The api key popup - if you dont have an api key, or when changing settings,
@@ -24,7 +24,7 @@ anyway, thats all i have to say, i hope you like it!
   each of these pieces of information is stored its its on text file locally on your machine. eg. (text files\steam_id.txt)
   
   
-###Settings Menu
+### Settings Menu
 
   <img width="211" height="180" alt="image" src="https://github.com/user-attachments/assets/44be4c66-fe02-4a9d-8e14-1da376d11887" />
 
