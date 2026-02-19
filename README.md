@@ -1,3 +1,11 @@
+# INSTALLATION
+
+#DM @zyreyxr on discord or @zyrey on slack if you struggle with the installtion
+
+1. Download the most recent release and unzip the file
+2. Go into the file and launch the exe or .pyw if you have all the dependencies.
+3. Enjoy!
+
 ## Hello! Welcome to Saturn Steam Achievement Tracker, I dont have much to add to this readme but heres a few cool things
 
 for fun, heres the first screenshot I took of this project 
