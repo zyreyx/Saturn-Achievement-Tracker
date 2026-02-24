@@ -1,6 +1,6 @@
 # INSTALLATION
 
-#DM @zyreyxr on discord or @zyrey on slack if you struggle with the installtion
+# DM @zyreyxr on discord or @zyrey on slack if you struggle with the installtion
 
 1. Download the most recent release and unzip the file
 2. Go into the file and launch the exe or .pyw if you have all the dependencies.
@@ -30,6 +30,11 @@ anyway, thats all i have to say, i hope you like it!
   and the timezone popup - if you dont have a timezone, or when changing settings.
 
   each of these pieces of information is stored its its on text file locally on your machine. eg. (text files\steam_id.txt)
+
+  ### You must go through and enter valid information into every pop up before trying to load a game!
+  ### If you select a game before going through all of the pop ups, you will have to restart the .exe and select the game again.
+  ### You will know the games achievments are loading if "Achievements loaded: x/y" shows up beneath the loading bar, it shouldn't take too long!
+  
   
   
 ### Settings Menu
